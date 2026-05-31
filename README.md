@@ -1,6 +1,7 @@
-# InstaDemo releases
+# instademo-releases
 
-Notarized macOS `.dmg` downloads for [InstaDemo](https://github.com/mollybeach/instademo).
+Instademo macOS downloads (notarized `.dmg`).
 
-Releases here are published automatically by the `Release DMG` GitHub Actions workflow.
-Grab the latest from the [Releases tab](https://github.com/mollybeach/instademo-releases/releases).
+→ [instademo.io](https://instademo-alpha.vercel.app/)
+
+Grab the latest build from the [Releases](https://github.com/mollybeach/instademo-releases/releases) tab. Source repo is private.
